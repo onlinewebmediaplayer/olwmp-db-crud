@@ -1,0 +1,4 @@
+Flask==2.3.2
+flask_recaptcha==0.4.2
+httpx==0.24.1
+Requests==2.31.0
